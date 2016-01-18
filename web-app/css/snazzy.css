@@ -2,7 +2,7 @@ body {
     font: Trebuchet MS, Verdana, Helvetica;
     margin: 0px;
 }
-#quote q	{
+#quote q   {
     font-size: 2.5em;
     display: block;
     margin: .5em;
@@ -10,11 +10,13 @@ body {
     background: url(../images/background.png) repeat-x;
     border: 1px dotted black;
 }
+
 #quote p   {
     font-size: 1.5em;
     text-align:right;
     margin-right: 2em;
 }
+
 #nav {
     text-align:right;
     margin-right: 1em;
@@ -23,13 +25,16 @@ body {
 #header {
     background: url(../images/logo_background.png) repeat-x;
 }
+
 #header img {
     padding: 1em;
 }
+
 #menu {
     background: url(../images/menu_background.png) repeat-x;
     padding: 5px;
 }
+
 #menu li {
     display: inline;
     margin-left: 5px;
