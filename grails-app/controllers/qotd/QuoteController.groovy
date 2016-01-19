@@ -2,7 +2,7 @@ package qotd
 
 class QuoteController {
 
-    def index() { }
+    static scaffold = true
 
     def random () {
         def allQuotes = Quote.list()
